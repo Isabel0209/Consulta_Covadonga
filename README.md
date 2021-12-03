@@ -21,4 +21,7 @@
   <img src="Interface de aplicación/6.jpeg" width="175" height="400">
   <img src="Interface de aplicación/7.jpeg" width="175" height="400">
   <img src="Interface de aplicación/8.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/9.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/10.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/11.jpeg" width="175" height="400">
 </html>

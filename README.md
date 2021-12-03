@@ -13,12 +13,12 @@
   <img src="Imagenes programación a bloques/7.jpeg">
   <img src="Imagenes programación a bloques/8.jpeg">
   <h2>Interface de la aplicación</h2>
-  <img src="Interface de aplicación/1.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/2.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/3.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/4.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/5.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/6.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/7.jpeg" width="350" height="800">
-  <img src="Interface de aplicación/8.jpeg" width="350" height="800">
+  <img src="Interface de aplicación/1.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/2.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/3.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/4.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/5.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/6.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/7.jpeg" width="175" height="400">
+  <img src="Interface de aplicación/8.jpeg" width="175" height="400">
 </html>

@@ -1,7 +1,5 @@
-# Consulta_Covadong
-Propuesta para proyecto Hackaton
-Aplicaciones hechas con el uso de app inventor de MIT y Arduino IDE
+# Consulta_Covadonga
 <html>
-<Title>Archivo .aia</title>
-<Body>Abrir el archivo importando proyecto desde la pagina del inventor de aplicaciones de MIT</body>
+  <Title>Archivo .aia y archivo .ino</title>
+<Body>Abrir el archivo importando proyecto desde la pagina del inventor de aplicaciones de MIT y .ino desde IDE de arduino para visualizar el codigo base del proyecto</body>
 </html>
